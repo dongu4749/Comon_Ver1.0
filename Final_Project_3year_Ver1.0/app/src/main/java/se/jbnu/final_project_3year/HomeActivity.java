@@ -9,12 +9,15 @@ import android.view.MenuItem;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.view.GravityCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+
+import se.jbnu.final_project_3year.Fragment.Fragment_Home;
+import se.jbnu.final_project_3year.Fragment.Fragment_MyInfo;
+import se.jbnu.final_project_3year.Fragment.Fragment_Progress;
 
 public class HomeActivity extends AppCompatActivity {
     private BottomNavigationView mBottomNV;

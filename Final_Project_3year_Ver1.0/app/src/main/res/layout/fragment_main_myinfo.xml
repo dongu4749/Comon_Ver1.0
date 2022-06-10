@@ -7,7 +7,7 @@
     android:background="@color/white"
     android:gravity="top|left"
     android:orientation="vertical"
-    tools:context=".Fragment_MyInfo">
+    tools:context=".Fragment.Fragment_MyInfo">
 
 
     <androidx.appcompat.widget.Toolbar

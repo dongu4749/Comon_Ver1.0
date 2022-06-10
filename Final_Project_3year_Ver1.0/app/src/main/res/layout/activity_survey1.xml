@@ -6,7 +6,7 @@
 
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context=".Survey1">
+    tools:context=".Survey.Survey1">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/my_toolbar"

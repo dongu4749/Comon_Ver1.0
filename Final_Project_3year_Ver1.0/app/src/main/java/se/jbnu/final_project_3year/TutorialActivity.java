@@ -47,7 +47,9 @@ public class TutorialActivity extends AppCompatActivity {
                 R.layout.tutorial_page1,
                 R.layout.tutorial_page2,
                 R.layout.tutorial_page3,
-                R.layout.tutorial_page4};
+                R.layout.tutorial_page4,
+                R.layout.tutorial_page5,
+                R.layout.tutorial_page6};
 
         addBottomDots(0);
 

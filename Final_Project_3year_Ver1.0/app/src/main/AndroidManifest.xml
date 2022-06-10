@@ -15,58 +15,58 @@
             android:name=".TutorialActivity"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Block_Coding_List_Activity"
+            android:name=".Quiz.Quiz_Block_Coding_List_Activity"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Short_Answer_List_Activity"
+            android:name=".Quiz.Quiz_Short_Answer_List_Activity"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Multiple_choice_List_Activity"
+            android:name=".Quiz.Quiz_Multiple_choice_List_Activity"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Short_Answer_Activity3"
+            android:name=".Quiz.Quiz_Short_Answer_Activity3"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Short_Answer_Activity2"
+            android:name=".Quiz.Quiz_Short_Answer_Activity2"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Multiple_choice_Activity3"
+            android:name=".Quiz.Quiz_Multiple_choice_Activity3"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Multiple_choice_Activity2"
+            android:name=".Quiz.Quiz_Multiple_choice_Activity2"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Short_Answer_Activity"
+            android:name=".Quiz.Quiz_Short_Answer_Activity"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Block_Coding_Activity"
+            android:name=".Quiz.Quiz_Block_Coding_Activity"
             android:exported="false" />
         <activity
-            android:name=".Quiz_Multiple_choice_Activity"
+            android:name=".Quiz.Quiz_Multiple_choice_Activity"
             android:exported="false" />
         <activity
-            android:name=".Survey_Recommend"
+            android:name=".Survey.Survey_Recommend"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".Survey5"
+            android:name=".Survey.Survey5"
             android:exported="false" />
         <activity
-            android:name=".Survey3"
+            android:name=".Survey.Survey3"
             android:exported="false" />
         <activity
             android:name=".HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".Survey2"
+            android:name=".Survey.Survey2"
             android:exported="false" />
         <activity
             android:name=".SignUpActivity"
             android:exported="false" />
         <activity
-            android:name=".Survey4"
+            android:name=".Survey.Survey4"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"
@@ -80,7 +80,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Survey1"
+            android:name=".Survey.Survey1"
             android:exported="false" />
     </application>
 

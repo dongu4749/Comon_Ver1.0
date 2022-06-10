@@ -3,11 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragment_Keyword">
+    tools:context=".Fragment.Fragment_Keyword">
 
     <fragment
         android:id="@+id/Keyword_Fragment"
-        android:name="se.jbnu.final_project_3year.Fragment_Keyword"
+        android:name="se.jbnu.final_project_3year.Fragment.Fragment_Keyword"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

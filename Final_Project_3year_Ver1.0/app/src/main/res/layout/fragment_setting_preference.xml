@@ -3,13 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragment_Setting">
+    tools:context=".Fragment.Fragment_Setting">
 
 
 
     <fragment
         android:id="@+id/setting_fragment"
-        android:name="se.jbnu.final_project_3year.Fragment_Setting"
+        android:name="se.jbnu.final_project_3year.Fragment.Fragment_Setting"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

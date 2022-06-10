@@ -3,11 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragment_Trend">
+    tools:context=".Fragment.Fragment_Trend">
 
     <fragment
         android:id="@+id/Trend_Fragment"
-        android:name="se.jbnu.final_project_3year.Fragment_Trend"
+        android:name="se.jbnu.final_project_3year.Fragment.Fragment_Trend"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

@@ -6,6 +6,8 @@ import android.os.Bundle;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+import se.jbnu.final_project_3year.Survey.Survey1;
+
 public class SplashActivity extends AppCompatActivity {
 
     @Override
