@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="80dp"
-        android:layout_marginBottom="640dp"
+        android:layout_marginBottom="592dp"
         android:text="객관식 문제에 대해"
         android:textColor="@color/dot_dark_screen1"
         android:textSize="32dp"
@@ -23,13 +23,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
-        android:layout_marginBottom="524dp"
+        android:layout_marginBottom="472dp"
         android:text="문제를 읽고 정답 버튼을 클릭한 후 제출 버튼을 클릭하세요"
         android:textColor="@color/black"
         android:textSize="20dp"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
+
     <ImageView
         android:id="@+id/imageViewTutorial3"
         android:layout_width="408dp"

@@ -10,8 +10,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="108dp"
-        android:layout_marginBottom="660dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="612dp"
         android:text="홈 화면에 대해"
         android:textColor="@color/dot_dark_screen1"
         android:textSize="32dp"
@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
-        android:layout_marginBottom="524dp"
+        android:layout_marginBottom="472dp"
         android:text="홈 화면에서는 일일 지식, 키워드, 요즘 뜨는 트렌드와 코딩을 풀 수 있는 화면으로 이동하기 위해 드로우바가 존재합니다."
         android:textColor="@color/black"
         android:textSize="20dp"

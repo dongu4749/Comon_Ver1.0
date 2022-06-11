@@ -10,8 +10,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="92dp"
-        android:layout_marginBottom="652dp"
+        android:layout_marginEnd="96dp"
+        android:layout_marginBottom="620dp"
         android:text="드로우바에 대해"
         android:textColor="@color/dot_dark_screen1"
         android:textSize="32dp"
@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
-        android:layout_marginBottom="524dp"
+        android:layout_marginBottom="488dp"
         android:text="드로우바에서는 코딩 문제를 풀 수있는 문제방으로 이동할 수 있으며 문제 종류에는 객관식, 주관식, 블록 코딩이 있습니다."
         android:textColor="@color/black"
         android:textSize="20dp"
