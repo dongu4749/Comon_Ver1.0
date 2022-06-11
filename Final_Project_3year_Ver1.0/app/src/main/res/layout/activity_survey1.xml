@@ -47,7 +47,7 @@
         <Button
             android:id="@+id/buttonYes"
             android:layout_width="match_parent"
-            android:layout_height="40dp"
+            android:layout_height="48dp"
             android:layout_margin="4dp"
             android:background="@drawable/button_shape_primary"
             android:text="네" />
@@ -55,7 +55,7 @@
         <Button
             android:id="@+id/buttonSkip"
             android:layout_width="match_parent"
-            android:layout_height="40dp"
+            android:layout_height="48dp"
             android:layout_margin="4dp"
             android:background="@drawable/button_shape_secondary"
             android:text="시작화면으로 넘어갈래요" />
