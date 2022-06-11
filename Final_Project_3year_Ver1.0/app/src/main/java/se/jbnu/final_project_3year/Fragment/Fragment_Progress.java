@@ -170,6 +170,17 @@ public class Fragment_Progress extends Fragment {
         return v;
 
     }
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        //return super.onOptionsItemSelected(item);
+        switch (item.getItemId()) {
+            case android.R.id.home: {
+                drawerLayout.openDrawer(GravityCompat.START);
+                return true;
+            }
+        }
+        return super.onOptionsItemSelected(item);
+    }
 
     public void saveKeyValue(String key, String value){
         //  SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(getActivity());
@@ -253,16 +264,6 @@ public class Fragment_Progress extends Fragment {
         per_BC = (int) target;
         Log.d("CHECK_Percentage",Float.toString(target) );
     }
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        //return super.onOptionsItemSelected(item);
-        switch (item.getItemId()) {
-            case android.R.id.home: {
-                drawerLayout.openDrawer(GravityCompat.START);
-                return true;
-            }
-        }
-        return super.onOptionsItemSelected(item);
-    }
+
 
 }

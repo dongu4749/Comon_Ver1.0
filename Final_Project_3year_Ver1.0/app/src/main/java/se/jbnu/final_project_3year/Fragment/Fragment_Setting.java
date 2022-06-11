@@ -54,8 +54,6 @@ public class Fragment_Setting extends PreferenceFragmentCompat {
         });
         buttonTutorial.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
             public boolean onPreferenceClick(Preference preference) {
-                //open browser or intent here
-                LoginActivity.SignOut();
                 Intent intent = new Intent(getActivity().getApplicationContext(), TutorialActivity.class);
                 startActivity(intent);
                 return true;

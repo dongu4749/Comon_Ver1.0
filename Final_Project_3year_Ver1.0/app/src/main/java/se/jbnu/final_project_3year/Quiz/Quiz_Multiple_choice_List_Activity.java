@@ -67,7 +67,7 @@ public class Quiz_Multiple_choice_List_Activity extends AppCompatActivity {
             imageButtonQuizMultiple3.setEnabled(true);
 
         }
-        if(!checkFirst(Fragment_Progress.check_MUL[0]) && !checkFirst(Fragment_Progress.check_MUL[1]) && checkFirst(Fragment_Progress.check_MUL[1]))
+        if(!checkFirst(Fragment_Progress.check_MUL[0]) && !checkFirst(Fragment_Progress.check_MUL[1]) && !checkFirst(Fragment_Progress.check_MUL[1]))
         {
             imageButtonQuizMultiple1.setSelected(true);
             imageButtonQuizMultiple2.setSelected(true);
